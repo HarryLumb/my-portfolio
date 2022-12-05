@@ -12,7 +12,7 @@ const About = () => {
         </div>
         <p className="text-xl mt-20">
        
-        A passionate front end developer experience using HTML, CSS, JavaScript, React, Bootstrap & Tailwind looking for an opportunity to to extend my expertise working with an experienced web development team.
+        A passionate front end developer experience using HTML, CSS, JavaScript, React, Bootstrap & Tailwind looking for an opportunity to extend my expertise working with an experienced web development team.
         </p>
         <br />
         <p className="text-xl">
