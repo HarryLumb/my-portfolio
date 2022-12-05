@@ -17,11 +17,7 @@ const Home = () => {
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
             {" "}
-            A passionate front end developer experience using HTML, CSS,
-            JavaScript, React, Bootstrap & Tailwind looking for an opportunity
-            to to extend my expertise working with an experienced web
-            development team.
-          </p>
+            Hi, my name is Harry. I am a Front-end developer with a keen eye for design, based in London.</p>
           <div>
             <Link
               to="Portfolio"

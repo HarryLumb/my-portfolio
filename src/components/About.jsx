@@ -11,7 +11,8 @@ const About = () => {
           <p className="text-4xl font-bold inline border-b-4 border-gray-500">About</p>
         </div>
         <p className="text-xl mt-20">
-        Hi, my name is Harry. I am a Front-end developer with a keen eye for design, based in London.
+       
+        A passionate front end developer experience using HTML, CSS, JavaScript, React, Bootstrap & Tailwind looking for an opportunity to to extend my expertise working with an experienced web development team.
         </p>
         <br />
         <p className="text-xl">
