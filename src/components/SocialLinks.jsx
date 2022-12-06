@@ -20,7 +20,7 @@ const SocialLinks = () => {
       child: (
         <>
           {" "}
-          GitHub <FaGithub size={30}/>
+          GitHub <FaGithub size={30} />
         </>
       ),
       href: "https://github.com/HarryLumb",
@@ -43,7 +43,7 @@ const SocialLinks = () => {
           My CV <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "",
+      href: "/HarryCV.pdf",
       style: "rounded-br-md",
       download: true,
     },
@@ -52,7 +52,7 @@ const SocialLinks = () => {
   return (
     <div className=" hidden lg:flex flex-col top-[35%] left-0 fixed">
       <ul>
-        {links.map(({id, child, href, style, download}) => (
+        {links.map(({ id, child, href, style, download }) => (
           <li
             key={id}
             className={
